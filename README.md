@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-This project investigates the influence of Nearpeer—a student engagement platform—on student enrollment in universities. Using data from Nearpeer and university datasets, the analysis focuses on identifying patterns and correlations in student engagement metrics and their relation to enrollment outcomes.
+This project investigates the influence of Nearpeer, a student engagement platform, on student enrollment in universities. Using data from Nearpeer and university datasets, the analysis focuses on identifying patterns and correlations in student engagement metrics and their relation to enrollment outcomes.
 
 ## Project Structure
 
